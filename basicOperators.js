@@ -11,10 +11,14 @@ yearMark = now - ageMark;
 
 console.log(yearJohn);
 
-console.log(now + 2);
-console.log(now * 2);
+console.log(now + 3);
+console.log(now * 4);
 console.log(now / 10);
 
 // Logical Operators
 var johnOlder = ageJohn < ageMark;
 console.log(johnOlder);
+
+
+//type of opeator
+console.log(typeof johnOlder);
